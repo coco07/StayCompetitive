@@ -1,0 +1,3 @@
+C:/Users/vijay/Desktop/CompiCPP Practice/cmake-build-debug/CMakeFiles/CompiCPP_Practice.dir
+C:/Users/vijay/Desktop/CompiCPP Practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vijay/Desktop/CompiCPP Practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
