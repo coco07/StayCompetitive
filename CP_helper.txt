@@ -1,0 +1,22 @@
+inbuilt:
+
+max(a,b)       //works on all types of data types
+
+------------------
+
+#include <algorithm>
+
+sort(a, a+n)		//where a is the first and a+n is the last element of array
+
+__gcd(a, b)			//gcd (HCF) of 2 integers a and b, it doesn't work on floating point
+
+
+------------------
+
+#include <cmath>
+
+int digits = log10(n)+1		//use of logarithms
+
+sqrt(n)		//square root of n
+
+round(sqrt(n))		//rounding up the value
