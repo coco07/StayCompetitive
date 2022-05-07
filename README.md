@@ -1,2 +1,2 @@
 # StayCompetitive
-All My CodeChef Stuffs Here!
+All My CodeChef Stuff Here!
